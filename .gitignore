@@ -1,0 +1,4 @@
+secrets.local.json
+__pycache__/
+.playwright-profile/
+.venv/
